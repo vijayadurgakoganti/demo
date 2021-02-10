@@ -1,0 +1,15 @@
+Velagapudi Ramakrishna Siddhartha Engineering CollegeDepartment of Information Technology
+Class: 3rdYear Section: A Year: 2020-2021
+EXTRACTION OF INFORMATION FROM MEDICINE
+Motivation:
+Visually impaired people suffer a lot in society. With all this disability they even face many day to day problems. One of them is being fooled by shrewd chemists.
+
+Problem Description:
+Our vision is to design a tool that can update the off-the-shelf inventory by just scanning the images of medicines.We propose a model to detect and recognize the text from the images and converting them in to speech
+Social Benefits:
+•	It helps the blind people, on scanning the image it reads the description of medicine so they can understand what medicine they took.
+•	No additional device is required they can scan the image through mobile phone.
+Innovation and Uniqueness:
+Our tool is build using android studio to detect and recognize the text from the images and converting them in to speech .
+Feasible Solution:
+Our solution  has three important functionalities:1. Text detection2. Text Recognition 3. Converting text into speech from medicines.
